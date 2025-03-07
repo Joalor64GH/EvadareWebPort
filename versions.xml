@@ -1,0 +1,8 @@
+<icons>
+  <line>
+    <icon name="Evadare" ID="1" color="#9961b6" locked="false" customName="true" customIcon="asset-v1/icon.png"></icon>
+    <icon name="Xrun" ID="2" color="#762c29" locked="false" customName="true" customIcon="asset-v2/icon.png"></icon>
+    <icon name="Void" ID="3" color="#525252" locked="false" customName="true"></icon>
+    <icon name="FLStpPction" ID="4" color="#CD9459" locked="false" customName="true" customIcon="asset-v4/icon.png" hidden="true"></icon>
+  </line>
+</icons>

@@ -1,0 +1,36 @@
+<!--
+FORMATTING:
+• (!line) - new line
+• (!bold/TEXT) - bold text
+• (!underline/TEXT) - underlined text
+• (!italic/text) - italic text
+• (!color/#HEX/TEXT) - colored text
+• (!emoji/EMOJI.png) - emoji
+• (!size/XXpx/TEXT) - text size
+• (!youtube/VIDEO_URL) - youtube video
+• (!button/#HEX/ICON.png/LINK/TEXT) - button
+• (!hr) - horizontal line
+-->
+
+<credits>
+  <page 
+  image="mod-credits/01c_remmie-hd.png"
+  title="Evadare Mod by Rem!"
+  text="It took me years of dedication, frustration, and countless retries to finally learn, to push myself harder, and to create something I can truly be proud of — an Incredibox MOD that reflects my passion. Never in my wildest dreams did I expect the overwhelming support I received after releasing the first chapter of Evadare. (!line) (!line)To everyone who believed in me, who stood by my side, and continues to support me - thank you from the bottom of my heart. I wish you all good health, happiness, and a life filled with joy. Take care of yourselves, always!"
+  />
+  <page 
+  image="mod-credits/02c_specialthanks-hd.png"
+  title="Special Thanks!"
+  text="I want to say thank you to (!bold/Artemiy Kopych), (!bold/Alex Ivan), (!bold/Nick Patito), (!bold/Person from Brazil), (!bold/Charlles), and (!bold/Simonn) for their help with this project. Special thanks to (!bold/Person from Brazil), (!bold/Alex Ivan), and (!bold/Charlles) for helping with the sounds and adjustments, (!bold/Nick Patito) and (!bold/Simonn) for the art and concepts, and (!bold/Artemiy) for testing, small fixes, and constant support for the project, as always!(!line)(!line)Secret thanks to (!bold/SG), the voice behind almost every sound in the Evadare series, (!bold/Siren Bread) for making Voice 1 icon for FSP, and thanks to my (!bold/Mom), because she loves me-"
+  />
+  <page 
+  image="mod-credits/03c_sofarsogood-hd.png"
+  title="INCREDIBOX BY SO FAR SO GOOD!"
+  text="And of corse the official developers of Incredibox, (!bold/Allan), (!bold/Romain) and Incredible (!bold/Polo)! Without them, this project wouldn't exist! (!line)(!line)(!hr)(!line)Buy Official Incredibox for more fun and to support the team!(!line)(!line)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox)" noImage="false"
+  />
+  <page 
+  image="mod-credits/05c_merch-hd.png"
+  title="Support Evadare!"
+  text="Check out the official Evadare merch! 🎉 From high-quality apparel to unique and stylish accessories, there's a wide range of products waiting for you. Whether you're a dedicated fan or just looking for something cool and original, you'll find something you love. Don't miss out, explore the collection today! ✨ (!line)(!line) (!button/#BA4237/social_kofi.png/https://ko-fi.com/remincredibox//Support me on ko-fi) (!button/#183663/social_shop.png/https://my-store-ea915a.creator-spring.com//Check out)" noImage="false"
+  />
+</credits>
